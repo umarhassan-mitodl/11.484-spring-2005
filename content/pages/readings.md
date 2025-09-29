@@ -3,6 +3,8 @@ content_type: page
 description: This section provides bibliographic citations for the course readings,
   organized by session and topic.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -39,9 +41,9 @@ The Project Cycle: Project Identification and Appraisal
 
 Jenkins, G. P., and A. C. Harberger. Chapter 2 in *Program on Investment Appraisal and Management Manual - Cost Benefit Analysis of Investment Decisions*. Cambridge, MA: Harvard Institute for International Development, 1997. ISBN: 1858981948.
 
-Sierra Leone PID ({{% resource_link "db789e72-352d-4e49-a0c6-fa38fffcded7" "PDF" %}})
+Sierra Leone PID ([PDF](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/2004/04/23/000012009_20040423150525/Rendered/PDF/ab467.pdf))
 
-Malawi Health PID ({{% resource_link "8e855482-4687-4805-8bfb-7015c052c671" "PDF" %}})
+Malawi Health PID ([PDF](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/2004/11/16/000104615_20041116171612/Rendered/PDF/MW0HSSP0PID0Nov012.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Financial Appraisal**
@@ -105,7 +107,7 @@ Belli, Pedro, et. al. "Risk and Sensitivity Analysis." Chapter 10 in *Economic A
 Project Financing and Risk Management
 {{< tdclose >}}{{< tdopen >}}
 
-Savvides, S. "{{% resource_link "0dad9cad-426f-4e96-94ab-6e721f726988" "Risk Analysis in Investment Appraisal" %}}." *Project Appraisal* 9.
+Savvides, S. "[Risk Analysis in Investment Appraisal](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=265905)." *Project Appraisal* 9.
 
 Curry, Steve, and John Weiss. "Uncertainty." Chapter 9 in *Project Analysis in Developing Countries*. London, UK: Palgrave Macmillan, 1999. ISBN: 0333792912.
 
@@ -169,7 +171,7 @@ Cost-Effectiveness Analysis
 
 Belli, Pedro, et. al. Chapter 7 and 9 in *Economic Analysis of Investment Operations: Analytical Tools and Practical Applications (Wbi Development Studies)*. Washington, DC: World Bank, 2001. ISBN: 0821348507.
 
-Vietnam - Second Rural Transport Project World Bank CE Project Appraisal Document ({{% resource_link "089d5855-96d3-4219-b38f-f5025cc5aec1" "PDF - 5 MB" %}})
+Vietnam - Second Rural Transport Project World Bank CE Project Appraisal Document ([PDF - 5 MB](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/1999/12/29/000094946_99120405314220/Rendered/PDF/multi_page.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **IV. Critical Analysis of Quantitative Appraisal Techniques**
@@ -214,7 +216,7 @@ Tendler, J. "Undoing the poverty agenda and putting it back together: social pol
 {{< tdclose >}}{{< tdopen >}}
 Project Appraisal and Project Evaluation
 {{< tdclose >}}{{< tdopen >}}
-World Bank Evaluation Document ({{% resource_link "8c588b36-0d09-4ee1-aa9e-dce504ae176b" "PDF - 2.8 MB" %}})
+World Bank Evaluation Document ([PDF - 2.8 MB](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/2004/03/30/000090341_20040330113442/Rendered/PDF/28168.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
